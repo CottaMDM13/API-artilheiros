@@ -1,0 +1,299 @@
+{
+    "artilheiros": [
+      {
+        "nome": "Cristiano Ronaldo",
+        "pais": "Portugal",
+        "clubes": ["Manchester United", "Real Madrid", "Juventus"],
+        "gols": 140
+      },
+      {
+        "nome": "Lionel Messi",
+        "pais": "Argentina",
+        "clubes": ["Barcelona", "Paris Saint-Germain"],
+        "gols": 129
+      },
+      {
+        "nome": "Robert Lewandowski",
+        "pais": "Polônia",
+        "clubes": ["Borussia Dortmund", "Bayern de Munique", "Barcelona"],
+        "gols": 91
+      },
+      {
+        "nome": "Karim Benzema",
+        "pais": "França",
+        "clubes": ["Lyon", "Real Madrid"],
+        "gols": 89
+      },
+      {
+        "nome": "Raúl",
+        "pais": "Espanha",
+        "clubes": ["Real Madrid", "Schalke 04"],
+        "gols": 71
+      },
+      {
+        "nome": "Ruud van Nistelrooy",
+        "pais": "Holanda",
+        "clubes": ["PSV Eindhoven", "Manchester United", "Real Madrid"],
+        "gols": 56
+      },
+      {
+        "nome": "Thierry Henry",
+        "pais": "França",
+        "clubes": ["Monaco", "Arsenal", "Barcelona"],
+        "gols": 50
+      },
+      {
+        "nome": "Zlatan Ibrahimović",
+        "pais": "Suécia",
+        "clubes": ["Ajax", "Juventus", "Inter de Milão", "Barcelona", "Milan", "Paris Saint-Germain", "Manchester United"],
+        "gols": 48
+      },
+      {
+        "nome": "Andriy Shevchenko",
+        "pais": "Ucrânia",
+        "clubes": ["Dynamo Kyiv", "Milan", "Chelsea"],
+        "gols": 48
+      },
+      {
+        "nome": "Alfredo Di Stéfano",
+        "pais": "Argentina",
+        "clubes": ["Real Madrid"],
+        "gols": 49
+      },
+      {
+        "nome": "Eusébio",
+        "pais": "Portugal",
+        "clubes": ["Benfica"],
+        "gols": 47
+      },
+      {
+        "nome": "Filippo Inzaghi",
+        "pais": "Itália",
+        "clubes": ["Juventus", "Milan"],
+        "gols": 46
+      },
+      {
+        "nome": "Thomas Müller",
+        "pais": "Alemanha",
+        "clubes": ["Bayern de Munique"],
+        "gols": 47
+      },
+      {
+        "nome": "Alessandro Del Piero",
+        "pais": "Itália",
+        "clubes": ["Juventus"],
+        "gols": 42
+      },
+      {
+        "nome": "Didier Drogba",
+        "pais": "Costa do Marfim",
+        "clubes": ["Marseille", "Chelsea", "Galatasaray"],
+        "gols": 44
+      },
+      {
+        "nome": "Ferenc Puskás",
+        "pais": "Hungria",
+        "clubes": ["Real Madrid"],
+        "gols": 35
+      },
+      {
+        "nome": "Edinson Cavani",
+        "pais": "Uruguai",
+        "clubes": ["Napoli", "Paris Saint-Germain"],
+        "gols": 35
+      },
+      {
+        "nome": "Neymar",
+        "pais": "Brasil",
+        "clubes": ["Barcelona", "Paris Saint-Germain"],
+        "gols": 43
+      },
+      {
+        "nome": "Sergio Agüero",
+        "pais": "Argentina",
+        "clubes": ["Atlético de Madrid", "Manchester City"],
+        "gols": 41
+      },
+      {
+        "nome": "Mário Jardel",
+        "pais": "Brasil",
+        "clubes": ["Porto", "Galatasaray"],
+        "gols": 34
+      },
+      {
+        "nome": "Roy Makaay",
+        "pais": "Holanda",
+        "clubes": ["Deportivo La Coruña", "Bayern de Munique"],
+        "gols": 29
+      },
+      {
+        "nome": "David Trezeguet",
+        "pais": "França",
+        "clubes": ["Monaco", "Juventus"],
+        "gols": 29
+      },
+      {
+        "nome": "Pierre-Emerick Aubameyang",
+        "pais": "Gabão",
+        "clubes": ["Borussia Dortmund", "Arsenal"],
+        "gols": 26
+      },
+      {
+        "nome": "Hernán Crespo",
+        "pais": "Argentina",
+        "clubes": ["Parma", "Lazio", "Inter de Milão", "Chelsea", "Milan"],
+        "gols": 25
+      },
+      {
+        "nome": "Franck Ribéry",
+        "pais": "França",
+        "clubes": ["Bayern de Munique"],
+        "gols": 24
+      },
+      {
+        "nome": "Roberto Carlos",
+        "pais": "Brasil",
+        "clubes": ["Real Madrid", "Inter de Milão"],
+        "gols": 24
+      },
+      {
+        "nome": "Fernando Morientes",
+        "pais": "Espanha",
+        "clubes": ["Real Madrid", "Monaco", "Valencia", "Liverpool"],
+        "gols": 24
+      },
+      {
+        "nome": "Arjen Robben",
+        "pais": "Holanda",
+        "clubes": ["Chelsea", "Real Madrid", "Bayern de Munique"],
+        "gols": 23
+      },
+      {
+        "nome": "Fernando Torres",
+        "pais": "Espanha",
+        "clubes": ["Atlético de Madrid", "Liverpool", "Chelsea"],
+        "gols": 22
+      },
+      {
+        "nome": "Wayne Rooney",
+        "pais": "Inglaterra",
+        "clubes": ["Manchester United"],
+        "gols": 21
+      },
+      {
+        "nome": "Patrick Kluivert",
+        "pais": "Holanda",
+        "clubes": ["Ajax", "Barcelona"],
+        "gols": 20
+      },
+      {
+        "nome": "Steven Gerrard",
+        "pais": "Inglaterra",
+        "clubes": ["Liverpool"],
+        "gols": 21
+      },
+      {
+        "nome": "Frank Lampard",
+        "pais": "Inglaterra",
+        "clubes": ["Chelsea"],
+        "gols": 20
+      },
+      {
+        "nome": "Gonzalo Higuaín",
+        "pais": "Argentina",
+        "clubes": ["Real Madrid", "Napoli", "Juventus"],
+        "gols": 21
+      },
+      {
+        "nome": "Luis Suárez",
+        "pais": "Uruguai",
+        "clubes": ["Ajax", "Liverpool", "Barcelona"],
+        "gols": 26
+      },
+      {
+        "nome": "Paul Scholes",
+        "pais": "Inglaterra",
+        "clubes": ["Manchester United"],
+        "gols": 20
+      },
+      {
+        "nome": "Michael Owen",
+        "pais": "Inglaterra",
+        "clubes": ["Liverpool", "Real Madrid", "Manchester United"],
+        "gols": 21
+      },
+      {
+        "nome": "Samuel Eto'o",
+        "pais": "Camarões",
+        "clubes": ["Mallorca", "Barcelona", "Inter de Milão", "Chelsea"],
+        "gols": 33
+      },
+      {
+        "nome": "Ryan Giggs",
+        "pais": "País de Gales",
+        "clubes": ["Manchester United"],
+        "gols": 28
+      },
+      {
+        "nome": "Gerd Müller",
+        "pais": "Alemanha",
+        "clubes": ["Bayern de Munique"],
+        "gols": 34
+      },
+      {
+        "nome": "Luís Figo",
+        "pais": "Portugal",
+        "clubes": ["Barcelona", "Real Madrid", "Inter de Milão"],
+        "gols": 23
+      },
+      {
+        "nome": "Sadio Mané",
+        "pais": "Senegal",
+        "clubes": ["Liverpool", "Bayern de Munique"],
+        "gols": 25
+      },
+      {
+        "nome": "Miroslav Klose",
+        "pais": "Alemanha",
+        "clubes": ["Werder Bremen", "Bayern de Munique", "Lazio"],
+        "gols": 24
+      },
+      {
+        "nome": "Edin Džeko",
+        "pais": "Bósnia e Herzegovina",
+        "clubes": ["Wolfsburg", "Manchester City", "Roma"],
+        "gols": 24
+      },
+      {
+        "nome": "Robin van Persie",
+        "pais": "Holanda",
+        "clubes": ["Arsenal", "Manchester United"],
+        "gols": 25
+      },
+      {
+        "nome": "George Weah",
+        "pais": "Libéria",
+        "clubes": ["Paris Saint-Germain", "Milan"],
+        "gols": 20
+      },
+      {
+        "nome": "Anderson Talisca",
+        "pais": "Brasil",
+        "clubes": ["Benfica"],
+        "gols": 20
+      },
+      {
+        "nome": "Ciro Immobile",
+        "pais": "Itália",
+        "clubes": ["Borussia Dortmund", "Lazio"],
+        "gols": 21
+      },
+      {
+        "nome": "Romelu Lukaku",
+        "pais": "Bélgica",
+        "clubes": ["Chelsea", "Manchester United", "Inter de Milão"],
+        "gols": 24
+      }
+    ]
+  }
+  
